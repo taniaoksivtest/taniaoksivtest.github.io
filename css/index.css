@@ -410,7 +410,7 @@ body {
   }
   .find-in__multi-cont__box:first-child:after {
     display: block;
-    top: 4px;
+    top: 8px;
   }
   .find-in__multi-cont__box {
     height: 35px;
