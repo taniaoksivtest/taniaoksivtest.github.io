@@ -358,9 +358,9 @@ body {
   padding: 20px;
   box-sizing: border-box;
   padding-top: 0;
+  border-top: 1px solid #aaa;
 }
 .find-more {
-  border-top: 1px solid #aaa;
   display: -ms-flexbox;
   display: flex;
 }
