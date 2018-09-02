@@ -285,6 +285,7 @@ body {
   background-repeat: no-repeat;
   background-position: calc(100% - 10px) 14px;
   border-radius: 3px;
+  height: 40px;
 }
 .find-in__text, .find-out__text, .find-more__text {
   text-transform: uppercase;
@@ -405,7 +406,7 @@ body {
   .date-input, .find-in__input, .find-out__select, .find-more__select, .find-in__select {
     font-size: 0.8em !important;
   }
-  .find-in__input, .find-in__select-box, .find-out__select, .find-more__select, .find-in__select, find-in__select-box {
+  .find-in__input, .find-in__select-box, .find-out__select, .find-more__select, .find-in__select, find-in__select-box, .find-more__select-box {
     height: 35px;
   }
   .find-in__multi-cont__box:first-child:after {
